@@ -1,0 +1,23 @@
+
+# Compiled Binaries
+*.pyd
+*.lib
+*.exp
+*.obj
+
+#auto generated cpp
+WeightMap/PyWeightMap.cpp
+
+# cython build directory
+/build/
+./build
+
+# IDE folder
+/.idea
+
+#auto generated htmp
+/WeightMap/PyWeightMap.html
+WeightMap/PyWeightMap.html
+
+/WeightMap/PyWeightMap.cpp
+/WeightMap/build/
